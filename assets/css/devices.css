@@ -1,0 +1,192 @@
+@media only screen and (max-width: 1200px) {
+	.tf-container{
+		width: 960px;
+		margin: 0 auto;
+	}
+	.header .tf-hide-mobile{
+		display: none;
+	}
+	.header .tf-hide-computer{
+		display: block;
+	}
+	.tf-fold{
+		padding: 100px 0px;
+	}
+	.tf-fold-image img {
+		max-width: 260px;
+	}
+	.tf-how-row-element-paragraph{
+		padding: 8px 20px;
+	}
+}
+@media only screen and (max-width: 1000px) {
+	.tf-container{
+		width: 768px;
+		margin: 0 auto;
+	}
+	
+	.header .menu{
+		float: right;
+	}
+	.tf-fold-content {
+		float: left;
+		padding-top: 20px;
+	}
+	.tf-fold{
+		padding: 80px 0px;
+	}
+	.tf-fold .tf-fold-content .tf-fold-hero-text{
+		max-width: 430px;
+		font-size: 42px;
+	}
+	.tf-fold-image img {
+		max-width: 220px;
+	}
+	.contact-number-fold {
+		height: 64px;
+		border-radius: 10px;
+		margin-top: 18px;
+	}
+	.contact-number-fold .trolley-number {
+		padding: 18px 40px 10px;
+		
+	}
+	.download-app-fold img {
+		height: 100px;
+		
+	}
+	.download-app-nav {
+		
+	}
+	.download-app-fold img:hover{
+		height: 100px;
+	}
+	.tf-how-row-element-paragraph{
+		padding: 8px 20px;
+	}
+	.tf-how-row-element {
+		text-align: center;
+		width: 100%;
+	}
+}
+@media only screen and (max-width: 800px) {
+	.tf-container{
+		width: 580px;
+		margin: 0 auto;
+	}
+	
+	.tf-nav-brand-logo{
+		float:left;
+	}
+	
+	
+	
+	.download-app-fold{
+		display: block;
+	}
+	.tf-fold-content{
+		padding-left: 0px;
+	}
+	.contact-number-fold {
+		height: 64px;
+		border-radius: 10px;
+		margin-top: 10px;
+		margin-left: 0px;
+	}
+	.tf-fold .tf-fold-content .tf-fold-hero-text {
+		max-width: 270px;
+		font-size: 32px;
+	}
+	.tf-fold-image img {
+		max-width: 250px;
+	}
+	.tf-section-title {
+		font-size: 32px;
+	}
+	.tf-section-paragraph{
+		width: 90%;
+	}
+	.tf-how {
+		padding: 100px 20px 0px;
+	}
+	.tf-contact {
+		padding: 100px 20px;
+	}
+	.tf-copyrights{
+		text-align: center;
+	}
+	.tf-copyrights-text {
+		margin: 10px auto;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.tf-container{
+		width: 460px;
+		margin: 0 auto;
+	}
+	.tf-fold .tf-fold-content .tf-fold-hero-text {
+		max-width: 270px;
+		font-size: 32px;
+		padding-bottom: 2px;
+	}
+	.tf-fold-image img {
+		max-width: 170px;
+	}
+	.download-app-nav {
+		display: none;
+	}
+	.download-cta-footer img:hover{
+		height: 120px;
+	}
+}
+
+
+@media only screen and (max-width: 480px) {
+	.tf-container{
+		width: 340px;
+		margin: 0 auto;
+	}
+	.tf-fold-image img {
+		padding: 30px 10px;
+		max-width: 270px;
+	}
+	.download-app-nav {
+		display: none;
+	}
+	.tf-section-paragraph{
+		padding: 30px 0px;
+	}
+	.tf-contact-cards-element{
+		padding: 24px 0;
+		margin: 15px 20px;
+	}
+	.tf-contact-cards-element h2 {
+		font-size: 19px;
+	}
+	.tf-contact-cards-element-mail{
+		padding: 24px 0;
+		margin: 15px 20px;
+	}
+	.tf-contact-cards-element-mail h2{
+		font-size: 19px;
+	}
+}
+
+@media only screen and (max-width: 360px) {
+	.tf-container{
+		width: 300px;
+	}
+	.header li a {
+		font-size: 13px;
+		display: block;
+		padding-left: 28px;
+	}
+}
+
+
+
+
+
+
+
